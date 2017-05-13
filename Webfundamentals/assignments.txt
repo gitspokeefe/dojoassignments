@@ -1,0 +1,30 @@
+S-OKeefe:DojoAssignments OKeefe111111113334455$ ls -R
+MEAN		Ruby		iOS
+Python		Webfundamentals	netCore
+
+./MEAN:
+about.txt
+
+./Python:
+about.txt
+
+./Ruby:
+about.txt
+
+./Webfundamentals:
+CSS		Git		HTML		Javascript	about.txt
+
+./Webfundamentals/CSS:
+
+./Webfundamentals/Git:
+
+./Webfundamentals/HTML:
+indentation.html
+
+./Webfundamentals/Javascript:
+
+./iOS:
+about.txt
+
+./netCore:
+about.txt
